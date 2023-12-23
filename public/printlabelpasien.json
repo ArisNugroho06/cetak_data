@@ -1,0 +1,26 @@
+[
+    {
+        "name_of_pasien":"MEAZEA SABDA PUTRIANSYAH",
+        "no_registration":"856202",
+        "contact_address":"SIMP BUMI AYU RT 10 RW04",
+        "nama_kota":"KOTA BENGKULU",
+        "date_of_birth":"2012-05-09 00:00:00.000",
+        "gender":"2"
+    }, 
+    {
+        "name_of_pasien":"MUHAMMAD ALDI ZAINUDDIN",
+        "no_registration":"856203",
+        "contact_address":"SIMP BUMI AYU RT 10 RW04",
+        "nama_kota":"KOTA BENGKULU",
+        "date_of_birth":"2012-05-09 00:00:00.000",
+        "gender":"1"
+    },
+    {
+        "name_of_pasien":"MEISYA RAHMAWATI",
+        "no_registration":"856204",
+        "contact_address":"SIMP BUMI AYU RT 10 RW04",
+        "nama_kota":"KOTA BENGKULU",
+        "date_of_birth":"2012-05-09 00:00:00.000",
+        "gender":"2"
+    }
+]
